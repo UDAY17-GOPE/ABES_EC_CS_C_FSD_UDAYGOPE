@@ -29,6 +29,7 @@ console.log(typeof reactElement2);
 //     backgroundColor: "lightblue",
 //     height: "50px",
 //     widthy: "150px"
+//      bg-color
 // }
 const reactElement = (
   <div
